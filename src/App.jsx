@@ -55,7 +55,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="container mx-auto my-5 rounded-xl p-5 bg-blue-100 min-h-[80vh] max-w-2xl shadow-2xl shadow-blue-400/50 hover:shadow-blue-500/70 transition-all duration-300">
+      <div className="container mx-auto my-5 rounded-xl p-5 bg-blue-10 min-h-[80vh] max-w-2xl shadow-2xl shadow-blue-300/50 hover:shadow-blue-500/70 transition-all duration-300">
         <div className="addTodo my-5 flex flex-col gap-3">
           <h2 className="text-xl font-bold">Add a Task</h2>
           <div className="flex gap-3">
